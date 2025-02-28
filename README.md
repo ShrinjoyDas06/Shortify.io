@@ -78,4 +78,3 @@ VITE_CLERK_PUBLISHABLE_KEY=pk_test_Y29udGVudC1taW5ub3ctMzIuY2xlcmsuYWNjb3VudHMuZ
 This project is licensed under the **MIT License**.
 
 [*will add soon]
-
