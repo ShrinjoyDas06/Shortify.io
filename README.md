@@ -41,10 +41,12 @@ Make sure you have the following installed:
 ### Setup Environment Variables
 Create a `.env` file in the root directory and add:
 ```env
-MONGODB_URI=your_mongodb_connection_string
-HUGGINGFACE_API_KEY=your_huggingface_api_key
-OPENAI_API_KEY=your_openai_api_key
-CLERK_API_KEY=your_clerk_api_key
+
+HUGGINGFACE_API_KEY=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
+VITE_BACKEND_URL="http://localhost:5000"
+GOOGLE_API_KEY=AIzaSyBjS_pYYJpCu1bk0aLebVnaULWKxwdXszA
+VITE_CLERK_PUBLISHABLE_KEY=pk_test_Y29udGVudC1taW5ub3ctMzIuY2xlcmsuYWNjb3VudHMuZGV2JA
+
 ```
 
 ### Run the Application
